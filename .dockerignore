@@ -1,0 +1,9 @@
+.git
+node_modules
+dist
+*.local
+**/*.local
+**/*.sqlite*
+.env*
+**/.env*
+server/demo.local/
